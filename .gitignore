@@ -1,0 +1,4 @@
+.vscode/settings.json
+config.py
+server.cert
+server.pem
